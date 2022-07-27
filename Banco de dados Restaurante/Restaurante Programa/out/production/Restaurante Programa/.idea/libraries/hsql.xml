@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hsql">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hsql.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Restaurante Programa:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Restaurante_Programa_jar</output-path>
+    <root id="archive" name="Restaurante Programa.jar">
+      <element id="module-output" name="Restaurante Programa" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../hsql.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
